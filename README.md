@@ -1,4 +1,4 @@
-# 👋 Hola, soy Eder Zoy
+# 👋 Hola, soy Eder Zoy 👩‍💻 
 
 🎓 Ingeniero en Sistemas de Información (UTN FRVM)  
 🌐 Apasionado por el desarrollo frontend, la visualización de datos y el diseño de interfaces de usuario.  
@@ -33,4 +33,4 @@ Actualmente busco oportunidades para seguir creciendo en mi carrera profesional.
 
 📫 **¿Charlamos?**  
 - ✉️ ederzoy6@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/ederzoy)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eder-zoy)  
