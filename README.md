@@ -1,7 +1,7 @@
 # 👋 Hola, soy Eder Zoy 👨‍💻
 
 🎓 Ingeniero en Sistemas de Información (UTN FRVM)  
-🌐 Apasionado por el desarrollo frontend, la visualización de datos y el diseño de interfaces de usuario.  
+🌐 Apasionado por el desarrollo de software, la visualización de datos y el diseño de interfaces de usuario.  
 🧠 Siempre aprendiendo y buscando formas de aportar valor con tecnología.
 
 ---
